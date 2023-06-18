@@ -1,5 +1,4 @@
-# To-do
-**Razor Pages pizzeria app**
+# to-do react app
 
 Used frameworks:
 - React JS
